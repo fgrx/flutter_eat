@@ -10,6 +10,15 @@ class TimersManagementScreen extends StatefulWidget {
 class _TimersManagementScreenState extends State<TimersManagementScreen> {
   @override
   Widget build(BuildContext context) {
-    return Container();
+    return Container(
+      child: Column(
+        children: [
+          Text("Timers management"),
+          SizedBox(
+            height: 14,
+          ),
+        ],
+      ),
+    );
   }
 }

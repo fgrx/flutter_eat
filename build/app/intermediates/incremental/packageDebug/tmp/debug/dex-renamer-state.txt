@@ -1,4 +1,4 @@
-#Mon Oct 30 12:10:04 CET 2023
+#Tue Oct 31 10:47:43 CET 2023
 base.0=/Users/fabien/work/flutter_eat/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
 renamed.0=classes.dex
 path.0=classes.dex

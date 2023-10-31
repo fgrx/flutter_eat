@@ -5,6 +5,16 @@ class AboutScreen extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Container();
+    return Container(
+      child: Column(
+        children: [
+          Text("About"),
+          SizedBox(
+            height: 14,
+          ),
+          Text("This app is created for learning :)")
+        ],
+      ),
+    );
   }
 }
